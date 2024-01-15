@@ -1,0 +1,18 @@
+
+/* The display tag can be used to change a block element to inline and vice versa. */
+/* E.g. href { Display: block; } */
+
+
+/* Img is an inline-block element */
+/* Change its height and width properties to adjust size */
+img {
+    height: 200px;
+    width: 200px;
+}
+
+/* Use 'display: none;' to hide an element from the users view */
+/* Useful for having a button to display and hide a picture */
+/* Javascript programming later */
+#Hidden {
+    display: none;
+}
